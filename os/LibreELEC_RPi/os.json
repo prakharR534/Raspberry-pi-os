@@ -1,0 +1,11 @@
+{
+  "name": "LibreELEC_RPi",
+  "version": "9.1.501",
+  "release_date": "2019-09-03",
+  "kernel": "fc5826fb999e0b32900d1f487e90c27a92010214",
+  "description": "LibreELEC is a fast and user-friendly Kodi Entertainment Center distribution.",
+  "username": "root",
+  "password": "libreelec",
+  "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,14,19,0092,0093",
+  "supported_models": ["Pi Model","Pi Compute Module","Pi Zero"]
+}

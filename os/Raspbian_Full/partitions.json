@@ -1,0 +1,22 @@
+{
+    "partitions": [
+        {
+            "filesystem_type": "FAT",
+            "label": "boot",
+            "mkfs_options": "-F 32",
+            "partition_size_nominal": 256,
+            "uncompressed_tarball_size": 52,
+            "want_maximised": false,
+            "sha256sum": "07a1328da3740436342ff912ec8f9bf4e60219c6e70c561bee3edfa2f5c7b067"
+        },
+        {
+            "filesystem_type": "ext4",
+            "label": "root",
+            "mkfs_options": "-O ^huge_file",
+            "partition_size_nominal": 5761,
+            "uncompressed_tarball_size": 5361,
+            "want_maximised": true,
+            "sha256sum": "1f8158c67902c44ed8504f50f88a872631dce72309bc274702fd7ed37f8d8576"
+        }
+    ]
+}

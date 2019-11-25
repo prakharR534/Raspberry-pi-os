@@ -1,0 +1,18 @@
+{
+    "description": "A port of Debian with desktop and recommended applications",
+    "kernel": "4.19",
+    "name": "Raspbian Full",
+    "password": "raspberry",
+    "release_date": "2019-09-26",
+    "supported_models": [
+        "Pi Model",
+        "Pi 2",
+        "Pi Zero",
+        "Pi 3",
+        "Pi Compute Module 3",
+        "Pi 4"
+    ],
+    "url": "http://www.raspbian.org/",
+    "username": "pi",
+    "version": "buster"
+}
